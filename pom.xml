@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>jmx-caller</name>
-	<description>Demo project for Spring Boot</description>
+	<description>A command-line client to call JMX operations</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
